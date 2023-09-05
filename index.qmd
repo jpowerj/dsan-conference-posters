@@ -15,7 +15,7 @@ We recommend using [FedEx's poster printing services](https://www.office.fedex.c
 | Data Analysis for GAD7 (Generalized Anxiety Disorder 7-item) | Zeyu Han |
 | DEFIYIELD: Exploitation of Open Blockchain Platforms | Tegveer Ghura |
 | Applying Reinforcement Learning to the Traveling Salesman Problem | Victor De Lima |
-| A Visual Exploration of Walkability in Washington, D.C. | Cynthia Ng |
+| A Visual Exploration of Walkability in Washington, D.C. | Cynthia Ng and Valeria Vera Lagos |
 | Visualizing Success in the NFL: An Analysis of the National Football League | Matthew Moriarity and Alex Pattarini |
 | Community Prediction with NLP: Text Classification Algorithms Using Reddit Data | Matthew Moriarity |
 
