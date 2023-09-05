@@ -18,3 +18,4 @@ jobs:
         target: /home/jpjgeorg/public_html/dsan_conference_posters
         strip_components: 1
         overwrite: true
+        rm: true
