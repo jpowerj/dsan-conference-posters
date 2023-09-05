@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "DSAN \"Evolution of Data Science\" Conference, Poster Session<br>Fri, Sept. 8, 5:00pm-6:00pm"
