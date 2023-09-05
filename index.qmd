@@ -1,0 +1,18 @@
+---
+title: "DSAN \"Evolution of Data Science\" Conference, Poster Session"
+subtitle: "Friday, September 8th, 5:00pm-6:00pm"
+---
+
+The following posters will be presented during the poster session on **Friday, September 8th** from **5:00pm** to **6:00pm**:
+
+| Title | Author(s) |
+|:- |:- |
+| The Peltzman Effect in Action: Analyzing the Relationship Between Bike Lane Coverage and Cyclist Safety in New York City | Wanying Li |
+| Data Analysis for GAD7 (Generalized Anxiety Disorder 7-item) | Zeyu Han |
+| DEFIYIELD: Exploitation of Open Blockchain Platforms | Tegveer Ghura |
+| Applying Reinforcement Learning to the Traveling Salesman Problem | Victor De Lima |
+| A Visual Exploration of Walkability in Washington, D.C. | Cynthia Ng |
+| Visualizing Success in the NFL: An Analysis of the National Football League | Matthew Moriarity and Alex Pattarini |
+| Community Prediction with NLP: Text Classification Algorithms Using Reddit Data | Matthew Moriarity |
+
+: {tbl-colwidths="[75, 25]"}

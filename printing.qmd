@@ -1,0 +1,28 @@
+---
+title: "Poster Printing Instructions"
+---
+
+## Poster Components
+
+It is recommended, but optional, that you follow the standard narrative structure used by most academic posters.
+
+For example:
+
+* Abstract
+* Background/Introduction
+* Research Questions
+* Methodologies
+* Results
+* Conclusions/Insights.
+
+However, this is just an optional recommendation, feel free to deviate from this structure if you feel you can present the work in a better way.
+
+The following guide, from NYU Libraries, is a good resource on what makes a good research poster: [https://guides.nyu.edu/posters](https://guides.nyu.edu/posters)
+
+## Poster Templates
+
+You can browse the following links for resources on poster construction using specific programs:
+
+* [Using PowerPoint](https://www.brown.edu/academics/medical/sites/brown.edu.academics.medical/files/uploads/Instructions%20for%20Creating%20a%20Poster%20in%20PowerPoint.pdf)
+* [Using Google Slides](https://sites.google.com/colgate.edu/academic-posters/google-slides-instructions)
+* [Using Keynote](https://discussions.apple.com/thread/1481437)

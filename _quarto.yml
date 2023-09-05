@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "DSAN \"Evolution of Data Science\" Conference, Poster Session<br>Fri, Sept. 8, 5:00pm-6:00pm"
+  sidebar:
+    contents:
+      - href: index.qmd
+        text: "Accepted Posters"
+      - href: printing.qmd
+        text: "Printing Instructions"
+      - "---"
+      - href: "https://analytics.georgetown.edu/georgetown-data-science-conference-the-evolution-of-data-science/#"
+        text: "Conference Homepage<i class=\"bi bi-box-arrow-up-right ps-1\"></i>"
+        target: "_blank"
+      - href: "https://analytics.georgetown.edu/conference-schedule/#"
+        text: "Conference Schedule<i class=\"bi bi-box-arrow-up-right ps-1\"></i>"
+        target: "_blank"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
