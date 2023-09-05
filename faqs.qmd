@@ -1,8 +1,8 @@
 ---
-title: "Poster Printing Instructions"
+title: "Frequently Asked Questions"
 ---
 
-## Poster Components
+## What components should my poster contain?
 
 It is recommended, but optional, that you follow the standard narrative structure used by most academic posters.
 
@@ -19,14 +19,18 @@ However, this is just an optional recommendation, feel free to deviate from this
 
 The following guide, from NYU Libraries, is a good resource on what makes a good research poster: [https://guides.nyu.edu/posters](https://guides.nyu.edu/posters){target="_blank"}
 
-## Poster Printing
+## How do I print my poster?
 
 For printing the poster, we recommend using the [poster printing services offered by FedEx](https://www.office.fedex.com/default/posters.html){target="_blank"}. A 24"-by-36" poster will cost $34.50 using this service.
 
-## Poster Templates
+## How can I create the poster using [specific program/app]?
 
 You can browse the following links for resources on poster construction using specific programs:
 
 * [Using PowerPoint](https://www.brown.edu/academics/medical/sites/brown.edu.academics.medical/files/uploads/Instructions%20for%20Creating%20a%20Poster%20in%20PowerPoint.pdf){target="_blank"}
 * [Using Google Slides](https://sites.google.com/colgate.edu/academic-posters/google-slides-instructions){target="_blank"}
 * [Using Keynote](https://discussions.apple.com/thread/1481437){target="_blank"}
+
+## What portion(s) of the conference are presenters required to attend?
+
+You will be expected to be present, with your poster, for the full session from 5:00pm to 6:00pm, in [**Copley Lounge**](https://goo.gl/maps/VTaDH14BYs5S9Guv8){target="_blank"} on Georgetown's campus. Attendance at the other sessions of the two-day conference is optional, but you are encouraged to attend, as the registration fee is waived for accepted poster presenters!

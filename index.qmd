@@ -3,7 +3,11 @@ title: "DSAN \"Evolution of Data Science\" Conference, Poster Session"
 subtitle: "Friday, September 8th, 5:00pm-6:00pm"
 ---
 
-The following posters will be presented during the poster session on **Friday, September 8th** from **5:00pm** to **6:00pm**:
+The following posters will be presented during the poster session on **Friday, September 8th** from **5:00pm** to **6:00pm**. Congratulations to all selected authors!
+
+You will be expected to be present, with your poster, for the full session from 5:00pm to 6:00pm, in [**Copley Lounge**](https://goo.gl/maps/VTaDH14BYs5S9Guv8){target="_blank"} on Georgetown's campus. Attendance at the other sessions of the two-day conference is optional, but you are encouraged to attend, as the conference registration fee is waived for accepted poster presenters!
+
+We recommend using [FedEx's poster printing services](https://www.office.fedex.com/default/posters.html) to print the 24"-by-36" posters for the session. You only need to print the posters themsevles---easels for holding the posters will be already set up and ready for you to use at the session! For more details, see the [printing instructions page](printing.qmd), or the [FAQs page](faqs.qmd) for more general concerns! If anything you need is not covered there, please feel free to **email me** (Professor Jeff) at **[jj1088@georgetown.edu](mailto:jj1088@georgetown.edu){target="_blank"}**.
 
 | Title | Author(s) |
 |:- |:- |

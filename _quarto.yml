@@ -10,12 +10,17 @@ website:
         text: "Accepted Posters"
       - href: printing.qmd
         text: "Printing Instructions"
+      - href: faqs.qmd
+        text: "FAQs"
       - "---"
       - href: "https://analytics.georgetown.edu/georgetown-data-science-conference-the-evolution-of-data-science/#"
         text: "Conference Homepage<i class=\"bi bi-box-arrow-up-right ps-1\"></i>"
         target: "_blank"
       - href: "https://analytics.georgetown.edu/conference-schedule/#"
         text: "Conference Schedule<i class=\"bi bi-box-arrow-up-right ps-1\"></i>"
+        target: "_blank"
+      - href: "https://goo.gl/maps/VTaDH14BYs5S9Guv8"
+        text: "Location (Google Maps)<i class=\"bi bi-box-arrow-up-right ps-1\"></i>"
         target: "_blank"
 
 format:

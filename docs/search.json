@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSAN “Evolution of Data Science” Conference, Poster Session",
     "section": "",
-    "text": "About this site"
+    "text": "The following posters will be presented during the poster session on Friday, September 8th from 5:00pm to 6:00pm. Congratulations to all selected authors!\nYou will be expected to be present, with your poster, for the full session from 5:00pm to 6:00pm, in Copley Lounge on Georgetown’s campus. Attendance at the other sessions of the two-day conference is optional, but you are encouraged to attend, as the conference registration fee is waived for accepted poster presenters!\nWe recommend using FedEx’s poster printing services to print the 24”-by-36” posters for the session. You only need to print the posters themsevles—easels for holding the posters will be already set up and ready for you to use at the session! For more details, see the printing instructions page, or the FAQs page for more general concerns! If anything you need is not covered there, please feel free to email me (Professor Jeff) at jj1088@georgetown.edu.\n\n\n\n\n\n\n\nTitle\nAuthor(s)\n\n\n\n\nThe Peltzman Effect in Action: Analyzing the Relationship Between Bike Lane Coverage and Cyclist Safety in New York City\nWanying Li\n\n\nData Analysis for GAD7 (Generalized Anxiety Disorder 7-item)\nZeyu Han\n\n\nDEFIYIELD: Exploitation of Open Blockchain Platforms\nTegveer Ghura\n\n\nApplying Reinforcement Learning to the Traveling Salesman Problem\nVictor De Lima\n\n\nA Visual Exploration of Walkability in Washington, D.C.\nCynthia Ng\n\n\nVisualizing Success in the NFL: An Analysis of the National Football League\nMatthew Moriarity and Alex Pattarini\n\n\nCommunity Prediction with NLP: Text Classification Algorithms Using Reddit Data\nMatthew Moriarity"
   },
   {
     "objectID": "printing.html",
     "href": "printing.html",
     "title": "Poster Printing Instructions",
     "section": "",
-    "text": "It is recommended, but optional, that you follow the standard narrative structure used by most academic posters.\nFor example:\n\nAbstract\nBackground/Introduction\nResearch Questions\nMethodologies\nResults\nConclusions/Insights.\n\nHowever, this is just an optional recommendation, feel free to deviate from this structure if you feel you can present the work in a better way.\nThe following guide, from NYU Libraries, is a good resource on what makes a good research poster: https://guides.nyu.edu/posters"
+    "text": "It is recommended, but optional, that you follow the standard narrative structure used by most academic posters.\nFor example:\n\nAbstract\nBackground/Introduction\nResearch Questions\nMethodologies\nResults\nConclusions/Insights\n\nHowever, this is just an optional recommendation, feel free to deviate from this structure if you feel you can present the work in a better way.\nThe following guide, from NYU Libraries, is a good resource on what makes a good research poster: https://guides.nyu.edu/posters"
   },
   {
     "objectID": "printing.html#poster-components",
     "href": "printing.html#poster-components",
     "title": "Poster Printing Instructions",
     "section": "",
-    "text": "It is recommended, but optional, that you follow the standard narrative structure used by most academic posters.\nFor example:\n\nAbstract\nBackground/Introduction\nResearch Questions\nMethodologies\nResults\nConclusions/Insights.\n\nHowever, this is just an optional recommendation, feel free to deviate from this structure if you feel you can present the work in a better way.\nThe following guide, from NYU Libraries, is a good resource on what makes a good research poster: https://guides.nyu.edu/posters"
+    "text": "It is recommended, but optional, that you follow the standard narrative structure used by most academic posters.\nFor example:\n\nAbstract\nBackground/Introduction\nResearch Questions\nMethodologies\nResults\nConclusions/Insights\n\nHowever, this is just an optional recommendation, feel free to deviate from this structure if you feel you can present the work in a better way.\nThe following guide, from NYU Libraries, is a good resource on what makes a good research poster: https://guides.nyu.edu/posters"
+  },
+  {
+    "objectID": "printing.html#poster-printing",
+    "href": "printing.html#poster-printing",
+    "title": "Poster Printing Instructions",
+    "section": "Poster Printing",
+    "text": "Poster Printing\nFor printing the poster, we recommend using the poster printing services offered by FedEx. A 24”-by-36” poster will cost $34.50 using this service."
   },
   {
     "objectID": "printing.html#poster-templates",
@@ -28,10 +35,38 @@
     "text": "Poster Templates\nYou can browse the following links for resources on poster construction using specific programs:\n\nUsing PowerPoint\nUsing Google Slides\nUsing Keynote"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DSAN “Evolution of Data Science” Conference, Poster Session",
+    "objectID": "faqs.html",
+    "href": "faqs.html",
+    "title": "Frequently Asked Questions",
     "section": "",
-    "text": "The following posters will be presented during the poster session on Friday, September 8th from 5:00pm to 6:00pm:\n\n\n\n\n\n\n\nTitle\nAuthor(s)\n\n\n\n\nThe Peltzman Effect in Action: Analyzing the Relationship Between Bike Lane Coverage and Cyclist Safety in New York City\nWanying Li\n\n\nData Analysis for GAD7 (Generalized Anxiety Disorder 7-item)\nZeyu Han\n\n\nDEFIYIELD: Exploitation of Open Blockchain Platforms\nTegveer Ghura\n\n\nApplying Reinforcement Learning to the Traveling Salesman Problem\nVictor De Lima\n\n\nA Visual Exploration of Walkability in Washington, D.C.\nCynthia Ng\n\n\nVisualizing Success in the NFL: An Analysis of the National Football League\nMatthew Moriarity and Alex Pattarini\n\n\nCommunity Prediction with NLP: Text Classification Algorithms Using Reddit Data\nMatthew Moriarity"
+    "text": "It is recommended, but optional, that you follow the standard narrative structure used by most academic posters.\nFor example:\n\nAbstract\nBackground/Introduction\nResearch Questions\nMethodologies\nResults\nConclusions/Insights\n\nHowever, this is just an optional recommendation, feel free to deviate from this structure if you feel you can present the work in a better way.\nThe following guide, from NYU Libraries, is a good resource on what makes a good research poster: https://guides.nyu.edu/posters"
+  },
+  {
+    "objectID": "faqs.html#what-components-should-my-poster-contain",
+    "href": "faqs.html#what-components-should-my-poster-contain",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "It is recommended, but optional, that you follow the standard narrative structure used by most academic posters.\nFor example:\n\nAbstract\nBackground/Introduction\nResearch Questions\nMethodologies\nResults\nConclusions/Insights\n\nHowever, this is just an optional recommendation, feel free to deviate from this structure if you feel you can present the work in a better way.\nThe following guide, from NYU Libraries, is a good resource on what makes a good research poster: https://guides.nyu.edu/posters"
+  },
+  {
+    "objectID": "faqs.html#how-do-i-print-my-poster",
+    "href": "faqs.html#how-do-i-print-my-poster",
+    "title": "Frequently Asked Questions",
+    "section": "How do I print my poster?",
+    "text": "How do I print my poster?\nFor printing the poster, we recommend using the poster printing services offered by FedEx. A 24”-by-36” poster will cost $34.50 using this service."
+  },
+  {
+    "objectID": "faqs.html#how-can-i-create-the-poster-using-specific-programapp",
+    "href": "faqs.html#how-can-i-create-the-poster-using-specific-programapp",
+    "title": "Frequently Asked Questions",
+    "section": "How can I create the poster using [specific program/app]?",
+    "text": "How can I create the poster using [specific program/app]?\nYou can browse the following links for resources on poster construction using specific programs:\n\nUsing PowerPoint\nUsing Google Slides\nUsing Keynote"
+  },
+  {
+    "objectID": "faqs.html#what-portions-of-the-conference-are-presenters-required-to-attend",
+    "href": "faqs.html#what-portions-of-the-conference-are-presenters-required-to-attend",
+    "title": "Frequently Asked Questions",
+    "section": "What portion(s) of the conference are presenters required to attend?",
+    "text": "What portion(s) of the conference are presenters required to attend?\nYou will be expected to be present, with your poster, for the full session from 5:00pm to 6:00pm, in Copley Lounge on Georgetown’s campus. Attendance at the other sessions of the two-day conference is optional, but you are encouraged to attend, as the registration fee is waived for accepted poster presenters!"
   }
 ]
