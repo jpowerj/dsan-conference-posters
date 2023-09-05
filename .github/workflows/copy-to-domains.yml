@@ -15,5 +15,5 @@ jobs:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         passphrase: ${{ secrets.SSH_PRIVATE_KEY_PASSPHRASE }}
         source: "docs/*"
-        target: /home/jpjgeorg/public_html/dsan_conference_test
+        target: /home/jpjgeorg/public_html/dsan_conference_posters
         strip_components: 1
