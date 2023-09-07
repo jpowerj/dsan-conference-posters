@@ -7,15 +7,16 @@ The following posters will be presented during the poster session on **Friday, S
 
 You are expected to be present, with your poster, for the full session from 5:00pm to 6:00pm, in [**Copley Lounge**](https://goo.gl/maps/VTaDH14BYs5S9Guv8){target="_blank"} on Georgetown's campus. Attendance at the other sessions of the two-day conference is optional, but you are encouraged to attend, as the conference registration fee is waived for accepted poster presenters! We recommend business attire for all sessions.
 
-You can use [FedEx's poster printing services](https://www.office.fedex.com/default/posters.html) to print the 24"-by-36" posters for the session. You only need to print the posters themsevles---easels for holding the posters will be set up and ready for you to use at the session! For more details see the [printing instructions page](printing.qmd), or the [FAQs page](faqs.qmd) for more general concerns! If anything you need is not covered there, please feel free to **email me** (Professor Jeff) at **[jj1088@georgetown.edu](mailto:jj1088@georgetown.edu){target="_blank"}**.
+You can use [FedEx's poster printing services](https://www.office.fedex.com/default/posters.html) to print the 24"-by-36" posters for the session. You only need to print the posters themsevles---easels for holding the posters will be set up and ready for you to use at the session! For more details see the [printing instructions page](printing.qmd), or the [FAQs page](faqs.qmd) for more general concerns! If anything you need is not covered there, please feel free to **email me** (Jeff Jacobs) at **[jj1088@georgetown.edu](mailto:jj1088@georgetown.edu){target="_blank"}**.
 
 | Title | Author(s) |
 |:- |:- |
-| *The Peltzman Effect in Action: Analyzing the Relationship Between Bike Lane Coverage and Cyclist Safety in New York City* | Wanying Li |
-| *Data Analysis for GAD7 (Generalized Anxiety Disorder 7-item)* | Zeyu Han |
-| *DEFIYIELD: Exploitation of Open Blockchain Platforms* | Tegveer Ghura |
-| *A Visual Exploration of Walkability in Washington, D.C.* | Cynthia Ng and Valeria Vera Lagos |
-| *Visualizing Success in the NFL: An Analysis of the National Football League* | Matthew Moriarity and Alex Pattarini |
+| *Exploration of the Factors Affecting Salaries and Employment* | Wendi Chu and Tingsong Li |
 | *Community Prediction with NLP: Text Classification Algorithms Using Reddit Data* | Victor De Lima and Matthew Moriarity |
+| *DEFIYIELD: Exploitation of Open Blockchain Platforms* | Tegveer Ghura |
+| *Data Analysis for GAD7 (Generalized Anxiety Disorder 7-item)* | Zeyu Han |
+| *The Peltzman Effect in Action: Analyzing the Relationship Between Bike Lane Coverage and Cyclist Safety in New York City* | Wanying Li |
+| *Visualizing Success in the NFL: An Analysis of the National Football League* | Matthew Moriarity and Alex Pattarini |
+| *A Visual Exploration of Walkability in Washington, D.C.* | Cynthia Ng and Valeria Vera Lagos |
 
 : {tbl-colwidths="[75, 25]"}
