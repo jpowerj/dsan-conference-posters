@@ -16,7 +16,9 @@ You can use [FedEx's poster printing services](https://www.office.fedex.com/defa
 | *DEFIYIELD: Exploitation of Open Blockchain Platforms* | Tegveer Ghura |
 | *Data Analysis for GAD7 (Generalized Anxiety Disorder 7-item)* | Zeyu Han |
 | *The Peltzman Effect in Action: Analyzing the Relationship Between Bike Lane Coverage and Cyclist Safety in New York City* | Wanying Li |
+| *Unpacking the Factors Influencing Election Outcomes:  A Comprehensive Analysis* | Mike Liu |
 | *Visualizing Success in the NFL: An Analysis of the National Football League* | Matthew Moriarity and Alex Pattarini |
 | *A Visual Exploration of Walkability in Washington, D.C.* | Cynthia Ng and Valeria Vera Lagos |
+| *Insights on Factors of World Happiness* | Yunhong Yang, Ziyue Li, Yutao Chen, and Xiaodan Lu |
 
 : {tbl-colwidths="[75, 25]"}
